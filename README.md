@@ -1,5 +1,4 @@
-# README for Hello Street Cat - Reidentification Code
-
+# Hello Street Cat Reident
 ## Overview
 
 Welcome to the **Hello Street Cat** reidentification project! This repository focuses on building machine learning and deep learning models for visual reidentification of cats. It uses a Siamese Network Model to identify and match instances of cats from image datasets.
